@@ -1,0 +1,30 @@
+message: Plataforma de trabalho voluntário. 
+title: HelpUp
+authors:
+  - family-names: Longhini
+    given-names: Carolina
+  - family-names: Azeredo Magnago
+    given-names: Eduarda
+  - family-names: Cardoso
+    given-names: Igor Gabriel
+  - family-names: Araújo
+    given-names: Leandro
+  - family-names: Castiglieri Okamoto
+    given-names: Matheus Henrique
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Dias Maciel
+    given-names: Wesley
+keywords:
+  - voluntariado
+  - aprendizado
+  - terceiro setor
+  - filantropia
+  - engajamento
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-2-e3-proj-mov-t5-helpUp
+version: 1.0.0
+date-released: 2023-10-31
+
+
+
+
