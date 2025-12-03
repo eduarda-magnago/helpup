@@ -123,7 +123,3 @@ Deve incluir:
 
 Além dos itens acima seria salutar apresentar uma barra de progresso para ações que demoram alguns segundos, pois o usuário pode pensar que o aplicativo está travado.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
-
-> **Links Úteis**:
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
