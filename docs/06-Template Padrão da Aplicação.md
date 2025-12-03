@@ -22,14 +22,6 @@ A fonte Sarpanch foi selecionada para dar destaque e personalidade aos títulos 
 ## Link do Figma completo
 https://www.figma.com/design/kmG7BFWFv2xyUUZSDs8Wp2/HelpUp---Projeto-3%C2%B0-Per%C3%ADodo?node-id=0-1&p=f&t=3ZXFAsVWNhXdfAfl-0
 
-## Protótipo de Alta Fidelidade 
-
-### Tela Dashboard Principal (Perfil Organização, Versão Mobile)
-<img width="518" height="2134" alt="Group 158 (8)" src="https://github.com/user-attachments/assets/200f5a80-1f65-4cb2-9069-da8f8c989399" />
-
-### Tela Dashboard Principal (Perfil Voluntário, Versão Mobile)
-<img width="518" height="2134" alt="Group 173 (3)" src="https://github.com/user-attachments/assets/4f4d62e6-599f-4624-8a15-db9f08b67c66" />
-
 
 
 
