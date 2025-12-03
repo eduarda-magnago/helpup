@@ -51,10 +51,10 @@ Sistema de Issues - Etiquetas Principais
 
 A equipe foi organizada da seguinte maneira:
 
-- `Scrum Master`: Fernando Gavioli;
 - `Product Owner`: Carolina Longhini;
-- `Equipe de Desenvolvimento`: Carolina Longhini, Eduarda Azeredo Magnago, Fernando Gavioli, Igor Gabriel Cardoso, Leandro Araújo, Matheus Henrique Castiglieri Okamoto;
-- `Equipe de Design`: Carolina Longhini, Eduarda Azeredo Magnago, Fernando Gavioli, Igor Gabriel Cardoso, Leandro Araújo, Matheus Henrique Castiglieri Okamoto.
+- `Scrum Master`: Eduarda Magnago;
+- `Equipe de Desenvolvimento`: Carolina Longhini, Igor Gabriel Cardoso, Leandro Araújo, Matheus Henrique Castiglieri Okamoto;
+- `Design`: Eduarda Magnago.
 
 ### Processo
 
