@@ -74,19 +74,6 @@ CREATE TABLE IF NOT EXISTS "public"."vagas" (
 | **SQLite** | Banco de dados local (cache e modo offline) | Banco local |
 | **VS Code / GitHub / Node.js / Postman** | Suporte ao desenvolvimento, testes e versionamento | Ferramentas |
 
-
-  
-## Hospedagem (pendente)
-
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
-
 ## Qualidade de Software
 
 Adotaremos o modelo ISO/IEC 25010 para selecionar subcaracterísticas diretamente ligadas ao nosso contexto: app móvel que conecta voluntários e organizações, com forte ênfase em segurança, usabilidade, desempenho e confiabilidade.
