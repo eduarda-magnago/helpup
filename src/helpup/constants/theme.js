@@ -1,0 +1,32 @@
+export const theme = {
+  colors: {
+    background: "#FBFAF4",
+    subtitle: "#979CA5",
+    subtitleDark: "#94918A",
+    yellow: "#FFD143",
+    white: "#FFFFFF",
+    black: "#000000",
+    grey: "#FFD143",
+    darkGrey: "#121212",
+    lightGrey: "#DFE0DB",
+    offWhite: "#F6F6F6",
+    inputBackground: "#F6F2DD",
+    buttonBackground: "#F1E6AC",
+  },
+  fonts: {
+    medium: "500",
+    semibold: "600",
+    bold: "700",
+    extraBold: "800",
+    fontSize: 16,
+    fontFamily: "Poppins_400Regular",
+  },
+  radius: {
+    xs: 10,
+    sm: 12,
+    md: 14,
+    lg: 16,
+    xl: 18,
+    xxl: 25,
+  },
+};
