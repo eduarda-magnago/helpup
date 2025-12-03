@@ -59,6 +59,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Organização das tarefas
 [Trello](https://trello.com/b/1u7Yo9oM/helpup)  
-<img width="849" height="599" alt="trello" src="https://github.com/user-attachments/assets/01691f0f-5444-44a9-840b-5b90db43902f" />
 
 
